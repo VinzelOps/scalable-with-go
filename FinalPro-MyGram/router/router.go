@@ -1,8 +1,8 @@
 package router
 
 import (
-	"scalable-with-go/FinalPro-MyGram/controllers"
-	"scalable-with-go/FinalPro-MyGram/middleware"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/controllers"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/middleware"
 	"net/http"
 	"github.com/gin-gonic/gin"
 )

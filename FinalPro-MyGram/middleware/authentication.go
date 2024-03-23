@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"MyGram/utils"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/utils"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

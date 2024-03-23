@@ -1,11 +1,10 @@
 package database
 
 import (
-	"scalable-with-go/FinalPro-MyGram/models"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/models"
 	"fmt"
 	"log"
 	"os"
-
 	"github.com/joho/godotenv"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

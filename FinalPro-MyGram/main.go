@@ -1,8 +1,8 @@
 package main
 
 import (
-	"scalable-with-go/FinalPro-MyGram/database"
-	"scalable-with-go/FinalPro-MyGram/router"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/database"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/router"
 )
 
 func main() {

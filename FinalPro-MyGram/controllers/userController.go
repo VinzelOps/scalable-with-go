@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"scalable-with-go/FinalPro-MyGram/database"
-	"scalable-with-go/FinalPro-MyGram/models"
-	"scalable-with-go/FinalPro-MyGram/utils"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/database"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/models"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/utils"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"

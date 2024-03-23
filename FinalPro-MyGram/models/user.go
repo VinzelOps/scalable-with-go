@@ -1,7 +1,7 @@
 package models
 
 import (
-	"scalable-with-go/FinalPro-MyGram/utils"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/utils"
 	"gorm.io/gorm"
 	"time"
 )

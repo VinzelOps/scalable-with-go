@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"scalable-with-go/FinalPro-MyGram/database"
-	"scalable-with-go/FinalPro-MyGram/models"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/database"
+	"github.com/VinzelOps/scalable-with-go/FinalPro-MyGram/models"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
